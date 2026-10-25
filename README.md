@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Seja bem-vindo ao GitHub. Sou Kaynã, estudante de Engenharia de Software. Prazer!
 
 <!--
 **KaynaDuarte/KaynaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="KayDev-C" height="30" width="40" src="https://skillicons.dev/icons?i=c&theme=dark">
+  <img align="center" alt="KayDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="KayDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="KayDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="KayDev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
